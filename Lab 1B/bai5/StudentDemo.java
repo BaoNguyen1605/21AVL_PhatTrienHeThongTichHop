@@ -1,5 +1,6 @@
-package bai3_4_5;
+package bai5;
 
+import bai4.Student;
 import java.util.Scanner;
 
 public class StudentDemo {

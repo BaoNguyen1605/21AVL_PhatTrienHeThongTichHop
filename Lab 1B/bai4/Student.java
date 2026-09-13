@@ -1,5 +1,6 @@
-package bai3_4_5;
+package bai4;
 
+import bai3.Person;
 import java.util.Scanner;
 
 public class Student extends Person {
